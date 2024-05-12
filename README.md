@@ -16,7 +16,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22911612&label=Profile%20views&color=0e75b6&style=flat" alt="it22911612" /> </p>
 
   <ul>
-    <li>🌱 I’m currently learning <strong>Java</strong></li>
+    <li>🌱 I’m currently learning <strong>MERN</strong></li>
     <li>📫 How to reach me: <a href="mailto:amilajanith0927@gmail.com">amilajanith0927@gmail.com</a></li>
   </ul>
 
