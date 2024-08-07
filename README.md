@@ -21,8 +21,8 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/amila janith athukorala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amila janith athukorala" height="30" width="40" /></a>
-    <a href="https://fb.com/amila janith athukorala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amila janith athukorala" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/amila-janith-athukorala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amila janith athukorala" height="30" width="40" /></a>
+    <a href="https://fb.com/amila-janith-athukorala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amila janith athukorala" height="30" width="40" /></a>
     <a href="https://instagram.com/jan.ith27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jan.ith27" height="30" width="40" /></a>
   </p>
 
@@ -45,6 +45,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </p>
 </body>
 </html>
+
