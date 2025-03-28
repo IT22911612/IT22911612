@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Amila Janith Athukorala</h1>
-  <h3 align="center">Still an Undergraduate at SLIIT.</h3>
+  <h3 align="center">Associate Software Engineer</h3>
 
   <a target="_blank" align="center">
     <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -15,7 +15,9 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22911612&label=Profile%20views&color=0e75b6&style=flat" alt="it22911612" /> </p>
 
   <ul>
-    <li>🌱 I’m currently learning <strong>MERN</strong></li>
+    <li>🏢 Currently working as an <strong>Associate Software Engineer</strong></li>
+    <li>🔭 I'm currently working with <strong>.NET 8 Core API</strong> and <strong>Angular 18</strong></li>
+    <li>🌱 I'm also learning <strong>MERN</strong> stack development</li>
     <li>📫 How to reach me: <a href="mailto:amilajanith0927@gmail.com">amilajanith0927@gmail.com</a></li>
   </ul>
 
@@ -28,9 +30,14 @@
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Framework" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -45,8 +52,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </p>
 </body>
 </html>
-
